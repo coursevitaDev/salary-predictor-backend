@@ -1,0 +1,120 @@
+,Category,sub1,sub2,Role,Exp,Range,Display Role
+0,Technology,GCC / SSC,Mid- to Large-Sized Captive Centres,India Site Head / MD,10 - 15 years,250 - 300,India Site Head / MD
+1,Technology,GCC / SSC,Mid- to Large-Sized Captive Centres,India Site Head / MD,15 - 20 years,300 - 500,India Site Head / MD
+2,Technology,GCC / SSC,Mid- to Large-Sized Captive Centres,Infrastructure / Cloud / Digital Workplace,5 - 10 years,35 - 55,Infrastructure / Cloud / Digital Workplace
+3,Technology,GCC / SSC,Mid- to Large-Sized Captive Centres,Infrastructure / Cloud / Digital Workplace,10 - 15 years,55 - 80,Infrastructure / Cloud / Digital Workplace
+4,Technology,GCC / SSC,Mid- to Large-Sized Captive Centres,Infrastructure / Cloud / Digital Workplace,15 - 20 years,80 - 125,Infrastructure / Cloud / Digital Workplace
+5,Technology,GCC / SSC,Mid- to Large-Sized Captive Centres,Infrastructure / Cloud / Digital Workplace,20+ years,125 - 200,Infrastructure / Cloud / Digital Workplace
+6,Technology,GCC / SSC,Mid- to Large-Sized Captive Centres,Application / ERP,5 - 10 years,30 - 50,Application / ERP
+7,Technology,GCC / SSC,Mid- to Large-Sized Captive Centres,Application / ERP,10 - 15 years,50 - 75,Application / ERP
+8,Technology,GCC / SSC,Mid- to Large-Sized Captive Centres,Application / ERP,15 - 20 years,75 - 100,Application / ERP
+9,Technology,GCC / SSC,Mid- to Large-Sized Captive Centres,Application / ERP,20+ years,100 - 200,Application / ERP
+10,Technology,GCC / SSC,Mid- to Large-Sized Captive Centres,Data Security / Information Security / Cyber Security,5 - 10 years,35 - 50,Data Security / Information Security / Cyber Security
+11,Technology,GCC / SSC,Mid- to Large-Sized Captive Centres,Data Security / Information Security / Cyber Security,10 - 15 years,50 - 75,Data Security / Information Security / Cyber Security
+12,Technology,GCC / SSC,Mid- to Large-Sized Captive Centres,Data Security / Information Security / Cyber Security,15 - 20 years,75 - 120,Data Security / Information Security / Cyber Security
+13,Technology,GCC / SSC,Mid- to Large-Sized Captive Centres,Data Security / Information Security / Cyber Security,20+ years,120 - 225,Data Security / Information Security / Cyber Security
+14,Technology,GCC / SSC,Mid- to Large-Sized Captive Centres,Service Delivery / IT Operations / PMO,5 - 10 years,25 - 45,Service Delivery / IT Operations / PMO
+15,Technology,GCC / SSC,Mid- to Large-Sized Captive Centres,Service Delivery / IT Operations / PMO,10 - 15 years,45 - 80,Service Delivery / IT Operations / PMO
+16,Technology,GCC / SSC,Mid- to Large-Sized Captive Centres,Service Delivery / IT Operations / PMO,15 - 20 years,80 - 120,Service Delivery / IT Operations / PMO
+17,Technology,GCC / SSC,Mid- to Large-Sized Captive Centres,Service Delivery / IT Operations / PMO,20+ years,120 - 150,Service Delivery / IT Operations / PMO
+18,Technology,Corporate IT,"MNC, Domestic Companies, Small-Sized Captive Centres",India Site Head / MD,15+ years,125 - 300,India Site Head / MD
+19,Technology,Corporate IT,"MNC, Domestic Companies, Small-Sized Captive Centres",CIO / IT Director,10 - 15 years,70 - 100,CIO / IT Director
+20,Technology,Corporate IT,"MNC, Domestic Companies, Small-Sized Captive Centres",CIO / IT Director,15+ years,100 - 300,CIO / IT Director
+21,Technology,Corporate IT,"MNC, Domestic Companies, Small-Sized Captive Centres",Infrastructure / Cloud / Data Centre,5 - 10 years,35 - 55,Infrastructure / Cloud / Data Centre
+22,Technology,Corporate IT,"MNC, Domestic Companies, Small-Sized Captive Centres",Infrastructure / Cloud / Data Centre,10 - 15 years,55 - 75,Infrastructure / Cloud / Data Centre
+23,Technology,Corporate IT,"MNC, Domestic Companies, Small-Sized Captive Centres",Infrastructure / Cloud / Data Centre,15+ years,75 - 100,Infrastructure / Cloud / Data Centre
+24,Technology,Corporate IT,"MNC, Domestic Companies, Small-Sized Captive Centres",Application / ERP,5 - 10 years,30 - 50,Application / ERP
+25,Technology,Corporate IT,"MNC, Domestic Companies, Small-Sized Captive Centres",Application / ERP,10 - 15 years,50 - 70,Application / ERP
+26,Technology,Corporate IT,"MNC, Domestic Companies, Small-Sized Captive Centres",Application / ERP,15+ years,70 - 90,Application / ERP
+27,Technology,Corporate IT,"MNC, Domestic Companies, Small-Sized Captive Centres",CISO / Information Security / Cyber Security,5 - 10 years,35 - 50,CISO / Information Security / Cyber Security
+28,Technology,Corporate IT,"MNC, Domestic Companies, Small-Sized Captive Centres",CISO / Information Security / Cyber Security,10 - 15 years,50 - 80,CISO / Information Security / Cyber Security
+29,Technology,Corporate IT,"MNC, Domestic Companies, Small-Sized Captive Centres",CISO / Information Security / Cyber Security,15+ years,80 - 120,CISO / Information Security / Cyber Security
+30,Technology,Corporate IT,"MNC, Domestic Companies, Small-Sized Captive Centres",Service Delivery / IT Operations / Project Management,5 - 10 years,25 - 45,Service Delivery / IT Operations / Project Management
+31,Technology,Corporate IT,"MNC, Domestic Companies, Small-Sized Captive Centres",Service Delivery / IT Operations / Project Management,10 - 15 years,45 - 70,Service Delivery / IT Operations / Project Management
+32,Technology,Corporate IT,"MNC, Domestic Companies, Small-Sized Captive Centres",Service Delivery / IT Operations / Project Management,15+ years,70 - 100,Service Delivery / IT Operations / Project Management
+33,Technology,"Development, Design & Architecture","Product, E-commerce, Internet & Fintech",CTO / Head of Engineering,4 - 10 years,30 - 90,CTO / Head of Engineering
+34,Technology,"Development, Design & Architecture","Product, E-commerce, Internet & Fintech",CTO / Head of Engineering,10 - 15 years,60 - 150,CTO / Head of Engineering
+35,Technology,"Development, Design & Architecture","Product, E-commerce, Internet & Fintech",CTO / Head of Engineering,15+ years,100 - 300,CTO / Head of Engineering
+36,Technology,"Development, Design & Architecture","Product, E-commerce, Internet & Fintech",Design & Architecture,4 - 10 years,30 - 80,Design & Architecture
+37,Technology,"Development, Design & Architecture","Product, E-commerce, Internet & Fintech",Design & Architecture,10 - 15 years,60 - 90,Design & Architecture
+38,Technology,"Development, Design & Architecture","Product, E-commerce, Internet & Fintech",Design & Architecture,15+ years,90 - 180,Design & Architecture
+39,Technology,"Development, Design & Architecture","Product, E-commerce, Internet & Fintech",Software Development,4 - 10 years,30 - 60,Software Development
+40,Technology,"Development, Design & Architecture","Product, E-commerce, Internet & Fintech",Software Development,10 - 15 years,40 - 80,Software Development
+41,Technology,"Development, Design & Architecture","Product, E-commerce, Internet & Fintech",Software Development,15+ years,80 - 120,Software Development
+42,Technology,"Development, Design & Architecture","Product, E-commerce, Internet & Fintech",DevOps Engineering,4 - 10 years,25 - 55,DevOps Engineering
+43,Technology,"Development, Design & Architecture","Product, E-commerce, Internet & Fintech",DevOps Engineering,10 - 15 years,40 - 100,DevOps Engineering
+44,Technology,"Development, Design & Architecture","Product, E-commerce, Internet & Fintech",DevOps Engineering,15+ years,80 - 150,DevOps Engineering
+45,Technology,"Development, Design & Architecture","Product, E-commerce, Internet & Fintech",Quality Assurance,4 - 10 years,25 - 45,Quality Assurance
+46,Technology,"Development, Design & Architecture","Product, E-commerce, Internet & Fintech",Quality Assurance,10 - 15 years,45 - 70,Quality Assurance
+47,Technology,"Development, Design & Architecture","Product, E-commerce, Internet & Fintech",Quality Assurance,15+ years,75 - 110,Quality Assurance
+48,Technology,"Development, Design & Architecture","Product, E-commerce, Internet & Fintech",Product Management,4 - 10 years,35 - 80,Product Management
+49,Technology,"Development, Design & Architecture","Product, E-commerce, Internet & Fintech",Product Management,10 - 15 years,80 - 150,Product Management
+50,Technology,"Development, Design & Architecture","Product, E-commerce, Internet & Fintech",Product Management,15+ years,140 - 230,Product Management
+51,Technology,"Development, Design & Architecture","Product, E-commerce, Internet & Fintech",Head of Tech Support,4 - 10 years,20 - 50,Head of Tech Support
+52,Technology,"Development, Design & Architecture","Product, E-commerce, Internet & Fintech",Head of Tech Support,10 - 15 years,40 - 80,Head of Tech Support
+53,Technology,"Development, Design & Architecture","Product, E-commerce, Internet & Fintech",Head of Tech Support,15+ years,70 - 120,Head of Tech Support
+54,Technology,IT Services,Mid- to Large-Sized ITeS Companies,CIO / IT Director,15 - 20 years,80 - 120,CIO / IT Director
+55,Technology,IT Services,Mid- to Large-Sized ITeS Companies,CIO / IT Director,20+ years,120 - 180,CIO / IT Director
+56,Technology,IT Services,Mid- to Large-Sized ITeS Companies,Digital Transformation,10 - 15 years,40 - 55,Digital Transformation
+57,Technology,IT Services,Mid- to Large-Sized ITeS Companies,Digital Transformation,15 - 20 years,55 - 85,Digital Transformation
+58,Technology,IT Services,Mid- to Large-Sized ITeS Companies,Digital Transformation,20+ years,85 - 110,Digital Transformation
+59,Technology,IT Services,Mid- to Large-Sized ITeS Companies,Architecture,5 - 10 years,30 - 40,Architecture
+60,Technology,IT Services,Mid- to Large-Sized ITeS Companies,Architecture,10 - 15 years,40 - 55,Architecture
+61,Technology,IT Services,Mid- to Large-Sized ITeS Companies,Architecture,15 - 20 years,55 - 70,Architecture
+62,Technology,IT Services,Mid- to Large-Sized ITeS Companies,Architecture,20+ years,70 - 90,Architecture
+63,Technology,IT Services,Mid- to Large-Sized ITeS Companies,Applications / ERP,5 - 10 years,20 - 35,Applications / ERP
+64,Technology,IT Services,Mid- to Large-Sized ITeS Companies,Applications / ERP,10 - 15 years,35 - 45,Applications / ERP
+65,Technology,IT Services,Mid- to Large-Sized ITeS Companies,Applications / ERP,15 - 20 years,45 - 70,Applications / ERP
+66,Technology,IT Services,Mid- to Large-Sized ITeS Companies,Applications / ERP,20+ years,75 - 100,Applications / ERP
+67,Technology,IT Services,Mid- to Large-Sized ITeS Companies,Infrastructure / Cloud / Data Center,5 - 10 years,25 - 35,Infrastructure / Cloud / Data Center
+68,Technology,IT Services,Mid- to Large-Sized ITeS Companies,Infrastructure / Cloud / Data Center,10 - 15 years,35 - 55,Infrastructure / Cloud / Data Center
+69,Technology,IT Services,Mid- to Large-Sized ITeS Companies,Infrastructure / Cloud / Data Center,15 - 20 years,55 - 75,Infrastructure / Cloud / Data Center
+70,Technology,IT Services,Mid- to Large-Sized ITeS Companies,Infrastructure / Cloud / Data Center,20+ years,75 - 110,Infrastructure / Cloud / Data Center
+71,Technology,IT Services,Mid- to Large-Sized ITeS Companies,CISO / Information Security / Cyber Security,5 - 10 years,35 - 45,CISO / Information Security / Cyber Security
+72,Technology,IT Services,Mid- to Large-Sized ITeS Companies,CISO / Information Security / Cyber Security,10 - 15 years,45 - 60,CISO / Information Security / Cyber Security
+73,Technology,IT Services,Mid- to Large-Sized ITeS Companies,CISO / Information Security / Cyber Security,15 - 20 years,60 - 85,CISO / Information Security / Cyber Security
+74,Technology,IT Services,Mid- to Large-Sized ITeS Companies,CISO / Information Security / Cyber Security,20+ years,85 - 120,CISO / Information Security / Cyber Security
+75,Technology,IT Services,Mid- to Large-Sized ITeS Companies,Service Delivery / IT Operations / Project Management,5 - 10 years,25 - 45,Service Delivery / IT Operations / Project Management
+76,Technology,IT Services,Mid- to Large-Sized ITeS Companies,Service Delivery / IT Operations / Project Management,10 - 15 years,35 - 55,Service Delivery / IT Operations / Project Management
+77,Technology,IT Services,Mid- to Large-Sized ITeS Companies,Service Delivery / IT Operations / Project Management,15 - 20 years,55 - 75,Service Delivery / IT Operations / Project Management
+78,Technology,IT Services,Mid- to Large-Sized ITeS Companies,Service Delivery / IT Operations / Project Management,20+ years,75 - 120,Service Delivery / IT Operations / Project Management
+79,Technology,Digital & Analytics,"Early-Stage Startups, Product, Internet / Tech & Fintech",Business Intelligence & Analytics,3 - 6 years,30 - 50,Business Intelligence & Analytics
+80,Technology,Digital & Analytics,"Early-Stage Startups, Product, Internet / Tech & Fintech",Business Intelligence & Analytics,6 - 10 years,50 - 70,Business Intelligence & Analytics
+81,Technology,Digital & Analytics,"Early-Stage Startups, Product, Internet / Tech & Fintech",Business Intelligence & Analytics,10 - 15 years,70 - 90,Business Intelligence & Analytics
+82,Technology,Digital & Analytics,"Early-Stage Startups, Product, Internet / Tech & Fintech",Business Intelligence & Analytics,15+ years,90 - 120,Business Intelligence & Analytics
+83,Technology,Digital & Analytics,"Early-Stage Startups, Product, Internet / Tech & Fintech",Risk & Fraud Analytics,3 - 6 years,25 - 50,Risk & Fraud Analytics
+84,Technology,Digital & Analytics,"Early-Stage Startups, Product, Internet / Tech & Fintech",Risk & Fraud Analytics,6 - 10 years,50 - 80,Risk & Fraud Analytics
+85,Technology,Digital & Analytics,"Early-Stage Startups, Product, Internet / Tech & Fintech",Risk & Fraud Analytics,10 - 15 years,75 - 125,Risk & Fraud Analytics
+86,Technology,Digital & Analytics,"Early-Stage Startups, Product, Internet / Tech & Fintech",Risk & Fraud Analytics,15+ years,120 - 175,Risk & Fraud Analytics
+87,Technology,Digital & Analytics,"Early-Stage Startups, Product, Internet / Tech & Fintech",Big Data / Data Engineering / Data Architecture,3 - 6 years,30 - 45,Big Data / Data Engineering / Data Architecture
+88,Technology,Digital & Analytics,"Early-Stage Startups, Product, Internet / Tech & Fintech",Big Data / Data Engineering / Data Architecture,6 - 10 years,45 - 65,Big Data / Data Engineering / Data Architecture
+89,Technology,Digital & Analytics,"Early-Stage Startups, Product, Internet / Tech & Fintech",Big Data / Data Engineering / Data Architecture,10 - 15 years,70 - 90,Big Data / Data Engineering / Data Architecture
+90,Technology,Digital & Analytics,"Early-Stage Startups, Product, Internet / Tech & Fintech",Big Data / Data Engineering / Data Architecture,15+ years,90 - 150,Big Data / Data Engineering / Data Architecture
+91,Technology,Digital & Analytics,"Early-Stage Startups, Product, Internet / Tech & Fintech",Data Science / Traditional Machine Learning,3 - 6 years,30 - 45,Data Science / Traditional Machine Learning
+92,Technology,Digital & Analytics,"Early-Stage Startups, Product, Internet / Tech & Fintech",Data Science / Traditional Machine Learning,6 - 10 years,45 - 60,Data Science / Traditional Machine Learning
+93,Technology,Digital & Analytics,"Early-Stage Startups, Product, Internet / Tech & Fintech",Data Science / Traditional Machine Learning,10 - 15 years,60 - 120,Data Science / Traditional Machine Learning
+94,Technology,Digital & Analytics,"Early-Stage Startups, Product, Internet / Tech & Fintech",Data Science / Traditional Machine Learning,15+ years,120 - 180,Data Science / Traditional Machine Learning
+95,Technology,Digital & Analytics,"Early-Stage Startups, Product, Internet / Tech & Fintech",New Age Machine Learning / Artificial Intelligence,3 - 6 years,35 - 50,New Age Machine Learning / Artificial Intelligence
+96,Technology,Digital & Analytics,"Early-Stage Startups, Product, Internet / Tech & Fintech",New Age Machine Learning / Artificial Intelligence,6 - 10 years,50 - 80,New Age Machine Learning / Artificial Intelligence
+97,Technology,Digital & Analytics,"Early-Stage Startups, Product, Internet / Tech & Fintech",New Age Machine Learning / Artificial Intelligence,10 - 15 years,80 - 150,New Age Machine Learning / Artificial Intelligence
+98,Technology,Digital & Analytics,"Early-Stage Startups, Product, Internet / Tech & Fintech",New Age Machine Learning / Artificial Intelligence,15+ years,150 - 250,New Age Machine Learning / Artificial Intelligence
+99,Technology,Digital & Analytics,"MNC Banks, Domestic Financial Institutions, Third-Party Consulting Firms, Management Consulting & GCCs",Business Intelligence & Analytics,3 - 6 years,20 - 35,Business Intelligence & Analytics
+100,Technology,Digital & Analytics,"MNC Banks, Domestic Financial Institutions, Third-Party Consulting Firms, Management Consulting & GCCs",Business Intelligence & Analytics,6 - 10 years,35 - 50,Business Intelligence & Analytics
+101,Technology,Digital & Analytics,"MNC Banks, Domestic Financial Institutions, Third-Party Consulting Firms, Management Consulting & GCCs",Business Intelligence & Analytics,10 - 15 years,55 - 75,Business Intelligence & Analytics
+102,Technology,Digital & Analytics,"MNC Banks, Domestic Financial Institutions, Third-Party Consulting Firms, Management Consulting & GCCs",Business Intelligence & Analytics,15+ years,75 - 100,Business Intelligence & Analytics
+103,Technology,Digital & Analytics,"MNC Banks, Domestic Financial Institutions, Third-Party Consulting Firms, Management Consulting & GCCs",Risk & Fraud Analytics,3 - 6 years,20 - 40,Risk & Fraud Analytics
+104,Technology,Digital & Analytics,"MNC Banks, Domestic Financial Institutions, Third-Party Consulting Firms, Management Consulting & GCCs",Risk & Fraud Analytics,6 - 10 years,40 - 65,Risk & Fraud Analytics
+105,Technology,Digital & Analytics,"MNC Banks, Domestic Financial Institutions, Third-Party Consulting Firms, Management Consulting & GCCs",Risk & Fraud Analytics,10 - 15 years,65 - 100,Risk & Fraud Analytics
+106,Technology,Digital & Analytics,"MNC Banks, Domestic Financial Institutions, Third-Party Consulting Firms, Management Consulting & GCCs",Risk & Fraud Analytics,15+ years,95 - 140,Risk & Fraud Analytics
+107,Technology,Digital & Analytics,"MNC Banks, Domestic Financial Institutions, Third-Party Consulting Firms, Management Consulting & GCCs",Big Data / Data Engineering,3 - 6 years,25 - 35,Big Data / Data Engineering
+108,Technology,Digital & Analytics,"MNC Banks, Domestic Financial Institutions, Third-Party Consulting Firms, Management Consulting & GCCs",Big Data / Data Engineering,6 - 10 years,35 - 55,Big Data / Data Engineering
+109,Technology,Digital & Analytics,"MNC Banks, Domestic Financial Institutions, Third-Party Consulting Firms, Management Consulting & GCCs",Big Data / Data Engineering,10 - 15 years,55 - 85,Big Data / Data Engineering
+110,Technology,Digital & Analytics,"MNC Banks, Domestic Financial Institutions, Third-Party Consulting Firms, Management Consulting & GCCs",Big Data / Data Engineering,15+ years,85 - 110,Big Data / Data Engineering
+111,Technology,Digital & Analytics,"MNC Banks, Domestic Financial Institutions, Third-Party Consulting Firms, Management Consulting & GCCs",Data Science / Traditional Machine Learning,3 - 6 years,25 - 40,Data Science / Traditional Machine Learning
+112,Technology,Digital & Analytics,"MNC Banks, Domestic Financial Institutions, Third-Party Consulting Firms, Management Consulting & GCCs",Data Science / Traditional Machine Learning,6 - 10 years,40 - 75,Data Science / Traditional Machine Learning
+113,Technology,Digital & Analytics,"MNC Banks, Domestic Financial Institutions, Third-Party Consulting Firms, Management Consulting & GCCs",Data Science / Traditional Machine Learning,10 - 15 years,75 - 110,Data Science / Traditional Machine Learning
+114,Technology,Digital & Analytics,"MNC Banks, Domestic Financial Institutions, Third-Party Consulting Firms, Management Consulting & GCCs",Data Science / Traditional Machine Learning,15+ years,110 - 160,Data Science / Traditional Machine Learning
+115,Technology,Digital & Analytics,"MNC Banks, Domestic Financial Institutions, Third-Party Consulting Firms, Management Consulting & GCCs",New Age Machine Learning / Artificial Intelligence,3 - 6 years,30 - 55,New Age Machine Learning / Artificial Intelligence
+116,Technology,Digital & Analytics,"MNC Banks, Domestic Financial Institutions, Third-Party Consulting Firms, Management Consulting & GCCs",New Age Machine Learning / Artificial Intelligence,6 - 10 years,55 - 85,New Age Machine Learning / Artificial Intelligence
+117,Technology,Digital & Analytics,"MNC Banks, Domestic Financial Institutions, Third-Party Consulting Firms, Management Consulting & GCCs",New Age Machine Learning / Artificial Intelligence,10 - 15 years,85 - 120,New Age Machine Learning / Artificial Intelligence
+118,Technology,Digital & Analytics,"MNC Banks, Domestic Financial Institutions, Third-Party Consulting Firms, Management Consulting & GCCs",New Age Machine Learning / Artificial Intelligence,15+ years,120 - 180,New Age Machine Learning / Artificial Intelligence

@@ -1,0 +1,88 @@
+,Category,sub1,Role,Exp,Range,Display Role
+0,Legal,Lawyer - In-house,Lawyer_-_Emerging_Tech_(Consumer_Tech_and_Fintech)_Lawyer_-_In-house,3 - 5 years,15 - 40,Lawyer - Emerging Tech (Consumer Tech & Fintech) in Lawyer - In-house
+1,Legal,Lawyer - In-house,Lawyer_-_Emerging_Tech_(Consumer_Tech_and_Fintech)_Lawyer_-_In-house,5 - 10 years,30 - 80,Lawyer - Emerging Tech (Consumer Tech & Fintech) in Lawyer - In-house
+2,Legal,Lawyer - In-house,Lawyer_-_Emerging_Tech_(Consumer_Tech_and_Fintech)_Lawyer_-_In-house,10 - 15 years,75 - 150,Lawyer - Emerging Tech (Consumer Tech & Fintech) in Lawyer - In-house
+3,Legal,Lawyer - In-house,Lawyer_-_Emerging_Tech_(Consumer_Tech_and_Fintech)_Lawyer_-_In-house,15+ years,120+,Lawyer - Emerging Tech (Consumer Tech & Fintech) in Lawyer - In-house
+4,Legal,Lawyer - In-house,"Lawyer_-_Financial_Services_-_Front_Office_(IB,_PE,_VC,_Structured_Debt,_AIF)_Lawyer_-_In-house",3 - 5 years,30 - 50,"Lawyer - Financial Services - Front Office (IB, PE, VC, Structured Debt, AIF) in Lawyer - In-house"
+5,Legal,Lawyer - In-house,"Lawyer_-_Financial_Services_-_Front_Office_(IB,_PE,_VC,_Structured_Debt,_AIF)_Lawyer_-_In-house",5 - 10 years,50 - 140,"Lawyer - Financial Services - Front Office (IB, PE, VC, Structured Debt, AIF) in Lawyer - In-house"
+6,Legal,Lawyer - In-house,"Lawyer_-_Financial_Services_-_Front_Office_(IB,_PE,_VC,_Structured_Debt,_AIF)_Lawyer_-_In-house",10 - 15 years,90 - 200,"Lawyer - Financial Services - Front Office (IB, PE, VC, Structured Debt, AIF) in Lawyer - In-house"
+7,Legal,Lawyer - In-house,"Lawyer_-_Financial_Services_-_Front_Office_(IB,_PE,_VC,_Structured_Debt,_AIF)_Lawyer_-_In-house",15+ years,175+,"Lawyer - Financial Services - Front Office (IB, PE, VC, Structured Debt, AIF) in Lawyer - In-house"
+8,Legal,Lawyer - In-house,Lawyer_-_Financial_Services_-_Others_Lawyer_-_In-house,3 - 5 years,15 - 35,Lawyer - Financial Services - Others in Lawyer - In-house
+9,Legal,Lawyer - In-house,Lawyer_-_Financial_Services_-_Others_Lawyer_-_In-house,5 - 10 years,30 - 70,Lawyer - Financial Services - Others in Lawyer - In-house
+10,Legal,Lawyer - In-house,Lawyer_-_Financial_Services_-_Others_Lawyer_-_In-house,10 - 15 years,60 - 120,Lawyer - Financial Services - Others in Lawyer - In-house
+11,Legal,Lawyer - In-house,Lawyer_-_Financial_Services_-_Others_Lawyer_-_In-house,15+ years,80+,Lawyer - Financial Services - Others in Lawyer - In-house
+12,Legal,Lawyer - In-house,Lawyer_-_Manufacturing_(B2B)_Lawyer_-_In-house,3 - 5 years,15 - 30,Lawyer - Manufacturing (B2B) in Lawyer - In-house
+13,Legal,Lawyer - In-house,Lawyer_-_Manufacturing_(B2B)_Lawyer_-_In-house,5 - 10 years,30 - 75,Lawyer - Manufacturing (B2B) in Lawyer - In-house
+14,Legal,Lawyer - In-house,Lawyer_-_Manufacturing_(B2B)_Lawyer_-_In-house,10 - 15 years,50 - 120,Lawyer - Manufacturing (B2B) in Lawyer - In-house
+15,Legal,Lawyer - In-house,Lawyer_-_Manufacturing_(B2B)_Lawyer_-_In-house,15+ years,90+,Lawyer - Manufacturing (B2B) in Lawyer - In-house
+16,Legal,Lawyer - In-house,Lawyer_-_Manufacturing_(B2C_and_Pharma)_Lawyer_-_In-house,3 - 5 years,15 - 35,Lawyer - Manufacturing (B2C & Pharma) in Lawyer - In-house
+17,Legal,Lawyer - In-house,Lawyer_-_Manufacturing_(B2C_and_Pharma)_Lawyer_-_In-house,5 - 10 years,30 - 75,Lawyer - Manufacturing (B2C & Pharma) in Lawyer - In-house
+18,Legal,Lawyer - In-house,Lawyer_-_Manufacturing_(B2C_and_Pharma)_Lawyer_-_In-house,10 - 15 years,65 - 120,Lawyer - Manufacturing (B2C & Pharma) in Lawyer - In-house
+19,Legal,Lawyer - In-house,Lawyer_-_Manufacturing_(B2C_and_Pharma)_Lawyer_-_In-house,15+ years,100+,Lawyer - Manufacturing (B2C & Pharma) in Lawyer - In-house
+20,Legal,Lawyer - In-house,"Lawyer_-_Energy,_Infrastructure_and_Renewables_Lawyer_-_In-house",3 - 5 years,15 - 45,"Lawyer - Energy, Infrastructure & Renewables in Lawyer - In-house"
+21,Legal,Lawyer - In-house,"Lawyer_-_Energy,_Infrastructure_and_Renewables_Lawyer_-_In-house",5 - 10 years,40 - 80,"Lawyer - Energy, Infrastructure & Renewables in Lawyer - In-house"
+22,Legal,Lawyer - In-house,"Lawyer_-_Energy,_Infrastructure_and_Renewables_Lawyer_-_In-house",10 - 15 years,65 - 150,"Lawyer - Energy, Infrastructure & Renewables in Lawyer - In-house"
+23,Legal,Lawyer - In-house,"Lawyer_-_Energy,_Infrastructure_and_Renewables_Lawyer_-_In-house",15+ years,100+,"Lawyer - Energy, Infrastructure & Renewables in Lawyer - In-house"
+24,Legal,Lawyer - In-house,Lawyer_-_Real_Estate_and_Warehousing_(Land_and_DD)_Lawyer_-_In-house,3 - 5 years,08 - 20,Lawyer - Real Estate & Warehousing (Land & DD) in Lawyer - In-house
+25,Legal,Lawyer - In-house,Lawyer_-_Real_Estate_and_Warehousing_(Land_and_DD)_Lawyer_-_In-house,5 - 10 years,20 - 50,Lawyer - Real Estate & Warehousing (Land & DD) in Lawyer - In-house
+26,Legal,Lawyer - In-house,Lawyer_-_Real_Estate_and_Warehousing_(Land_and_DD)_Lawyer_-_In-house,10 - 15 years,40 - 70,Lawyer - Real Estate & Warehousing (Land & DD) in Lawyer - In-house
+27,Legal,Lawyer - In-house,Lawyer_-_Real_Estate_and_Warehousing_(Land_and_DD)_Lawyer_-_In-house,15+ years,65+,Lawyer - Real Estate & Warehousing (Land & DD) in Lawyer - In-house
+28,Legal,Lawyer - In-house,Lawyer_-_Real_Estate_and_Warehousing_(Commercial_and_Transaction)_Lawyer_-_In-house,3 - 5 years,15 - 30,Lawyer - Real Estate & Warehousing (Commercial & Transaction) in Lawyer - In-house
+29,Legal,Lawyer - In-house,Lawyer_-_Real_Estate_and_Warehousing_(Commercial_and_Transaction)_Lawyer_-_In-house,5 - 10 years,35 - 80,Lawyer - Real Estate & Warehousing (Commercial & Transaction) in Lawyer - In-house
+30,Legal,Lawyer - In-house,Lawyer_-_Real_Estate_and_Warehousing_(Commercial_and_Transaction)_Lawyer_-_In-house,10 - 15 years,65 - 125,Lawyer - Real Estate & Warehousing (Commercial & Transaction) in Lawyer - In-house
+31,Legal,Lawyer - In-house,Lawyer_-_Real_Estate_and_Warehousing_(Commercial_and_Transaction)_Lawyer_-_In-house,15+ years,125+,Lawyer - Real Estate & Warehousing (Commercial & Transaction) in Lawyer - In-house
+32,Legal,Lawyer - In-house,Lawyer_-_IT___ITeS_and_Shared_Services_Lawyer_-_In-house,3 - 5 years,07 - 18,Lawyer - IT / ITeS and Shared Services in Lawyer - In-house
+33,Legal,Lawyer - In-house,Lawyer_-_IT___ITeS_and_Shared_Services_Lawyer_-_In-house,5 - 10 years,15 - 30,Lawyer - IT / ITeS and Shared Services in Lawyer - In-house
+34,Legal,Lawyer - In-house,Lawyer_-_IT___ITeS_and_Shared_Services_Lawyer_-_In-house,10 - 15 years,35 - 60,Lawyer - IT / ITeS and Shared Services in Lawyer - In-house
+35,Legal,Lawyer - In-house,Lawyer_-_IT___ITeS_and_Shared_Services_Lawyer_-_In-house,15+ years,65+,Lawyer - IT / ITeS and Shared Services in Lawyer - In-house
+36,Legal,Lawyer - In-house,Lawyer_-_Others_Lawyer_-_In-house,3 - 5 years,07 - 15,Lawyer - Others in Lawyer - In-house
+37,Legal,Lawyer - In-house,Lawyer_-_Others_Lawyer_-_In-house,5 - 10 years,18 - 40,Lawyer - Others in Lawyer - In-house
+38,Legal,Lawyer - In-house,Lawyer_-_Others_Lawyer_-_In-house,10 - 15 years,30 - 70,Lawyer - Others in Lawyer - In-house
+39,Legal,Lawyer - In-house,Lawyer_-_Others_Lawyer_-_In-house,15+ years,70+,Lawyer - Others in Lawyer - In-house
+40,Legal,Lawyer - Private Practice,Associate_Lawyer_-_Private_Practice,0 - 4 years,16 - 32,Associate in Lawyer - Private Practice
+41,Legal,Lawyer - Private Practice,Senior_Associate_Lawyer_-_Private_Practice,4 - 7 years,32 - 58,Senior Associate in Lawyer - Private Practice
+42,Legal,Lawyer - Private Practice,Principal_Associate___Counsel_Lawyer_-_Private_Practice,6 - 9 years,50 - 80,Principal Associate / Counsel in Lawyer - Private Practice
+43,Legal,Lawyer - Private Practice,Partner_Lawyer_-_Private_Practice,9+ years,85+,Partner in Lawyer - Private Practice
+44,Legal,Lawyer - Private Practice,Associate_Lawyer_-_Private_Practice,0 - 4 years,12 - 25,Associate in Lawyer - Private Practice
+45,Legal,Lawyer - Private Practice,Senior_Associate_Lawyer_-_Private_Practice,4 - 7 years,25 - 35,Senior Associate in Lawyer - Private Practice
+46,Legal,Lawyer - Private Practice,Principal_Associate___Counsel_Lawyer_-_Private_Practice,6 - 9 years,38 - 60,Principal Associate / Counsel in Lawyer - Private Practice
+47,Legal,Lawyer - Private Practice,Partner_Lawyer_-_Private_Practice,9+ years,60,Partner in Lawyer - Private Practice
+48,Legal,Lawyer - Private Practice,Associate_Lawyer_-_Private_Practice,0 - 4 years,12 - 20,Associate in Lawyer - Private Practice
+49,Legal,Lawyer - Private Practice,Senior_Associate_Lawyer_-_Private_Practice,4 - 7 years,22 - 32,Senior Associate in Lawyer - Private Practice
+50,Legal,Lawyer - Private Practice,Principal_Associate___Counsel_Lawyer_-_Private_Practice,6 - 9 years,35 - 50,Principal Associate / Counsel in Lawyer - Private Practice
+51,Legal,Lawyer - Private Practice,Partner_Lawyer_-_Private_Practice,9+ years,50,Partner in Lawyer - Private Practice
+52,Legal,Company Secretaries (In-house),Company_Secretary_(Listed)_Company_Secretaries_(In-house),3 - 5 years,12 - 25,Company Secretary (Listed) in Company Secretaries (In-house)
+53,Legal,Company Secretaries (In-house),Company_Secretary_(Listed)_Company_Secretaries_(In-house),5 - 10 years,20 - 50,Company Secretary (Listed) in Company Secretaries (In-house)
+54,Legal,Company Secretaries (In-house),Company_Secretary_(Listed)_Company_Secretaries_(In-house),10 - 15 years,40 - 70,Company Secretary (Listed) in Company Secretaries (In-house)
+55,Legal,Company Secretaries (In-house),Company_Secretary_(Listed)_Company_Secretaries_(In-house),15+ years,70+,Company Secretary (Listed) in Company Secretaries (In-house)
+56,Legal,Company Secretaries (In-house),Company_Secretary_(Unlisted)_Company_Secretaries_(In-house),3 - 5 years,05 - 12,Company Secretary (Unlisted) in Company Secretaries (In-house)
+57,Legal,Company Secretaries (In-house),Company_Secretary_(Unlisted)_Company_Secretaries_(In-house),5 - 10 years,15 - 30,Company Secretary (Unlisted) in Company Secretaries (In-house)
+58,Legal,Company Secretaries (In-house),Company_Secretary_(Unlisted)_Company_Secretaries_(In-house),10 - 15 years,28 - 50,Company Secretary (Unlisted) in Company Secretaries (In-house)
+59,Legal,Company Secretaries (In-house),Company_Secretary_(Unlisted)_Company_Secretaries_(In-house),15+ years,45+,Company Secretary (Unlisted) in Company Secretaries (In-house)
+60,Legal,Compliance,Ethics_and_Investigation_Counsel_Compliance,3 - 5 years,12 - 30,Ethics and Investigation Counsel in Compliance
+61,Legal,Compliance,Ethics_and_Investigation_Counsel_Compliance,5 - 10 years,25 - 50,Ethics and Investigation Counsel in Compliance
+62,Legal,Compliance,Ethics_and_Investigation_Counsel_Compliance,10 - 15 years,40 - 80,Ethics and Investigation Counsel in Compliance
+63,Legal,Compliance,Ethics_and_Investigation_Counsel_Compliance,15+ years,80+,Ethics and Investigation Counsel in Compliance
+64,Legal,Compliance,Statutory_and_Regulatory_Compliance_Compliance,3 - 5 years,15 - 25,Statutory and Regulatory Compliance in Compliance
+65,Legal,Compliance,Statutory_and_Regulatory_Compliance_Compliance,5 - 10 years,22 - 45,Statutory and Regulatory Compliance in Compliance
+66,Legal,Compliance,Statutory_and_Regulatory_Compliance_Compliance,10 - 15 years,40 - 70,Statutory and Regulatory Compliance in Compliance
+67,Legal,Compliance,Statutory_and_Regulatory_Compliance_Compliance,15+ years,60+,Statutory and Regulatory Compliance in Compliance
+68,Legal,General Counsel / Head Legal,Consumer_and_Pharma_General_Counsel___Head_Legal,Small,100 - 150,Consumer and Pharma in General Counsel / Head Legal
+69,Legal,General Counsel / Head Legal,Consumer_and_Pharma_General_Counsel___Head_Legal,Mid Sized,150 - 200,Consumer and Pharma in General Counsel / Head Legal
+70,Legal,General Counsel / Head Legal,Consumer_and_Pharma_General_Counsel___Head_Legal,Large Sized,175+,Consumer and Pharma in General Counsel / Head Legal
+71,Legal,General Counsel / Head Legal,Heavy_Engineering_and_Manufacturing_General_Counsel___Head_Legal,Small,75 - 120,Heavy Engineering and Manufacturing in General Counsel / Head Legal
+72,Legal,General Counsel / Head Legal,Heavy_Engineering_and_Manufacturing_General_Counsel___Head_Legal,Mid Sized,100 - 175,Heavy Engineering and Manufacturing in General Counsel / Head Legal
+73,Legal,General Counsel / Head Legal,Heavy_Engineering_and_Manufacturing_General_Counsel___Head_Legal,Large Sized,175+,Heavy Engineering and Manufacturing in General Counsel / Head Legal
+74,Legal,General Counsel / Head Legal,"Infra,_Renewables_General_Counsel___Head_Legal",Small,75 - 120,"Infra, Renewables in General Counsel / Head Legal"
+75,Legal,General Counsel / Head Legal,"Infra,_Renewables_General_Counsel___Head_Legal",Mid Sized,120 - 150,"Infra, Renewables in General Counsel / Head Legal"
+76,Legal,General Counsel / Head Legal,"Infra,_Renewables_General_Counsel___Head_Legal",Large Sized,175+,"Infra, Renewables in General Counsel / Head Legal"
+77,Legal,General Counsel / Head Legal,Services_General_Counsel___Head_Legal,Small,60 - 100,Services in General Counsel / Head Legal
+78,Legal,General Counsel / Head Legal,Services_General_Counsel___Head_Legal,Mid Sized,80 - 150,Services in General Counsel / Head Legal
+79,Legal,General Counsel / Head Legal,Services_General_Counsel___Head_Legal,Large Sized,150+,Services in General Counsel / Head Legal
+80,Legal,General Counsel / Head Legal,Emerging_Tech_General_Counsel___Head_Legal,Small,60 - 100,Emerging Tech in General Counsel / Head Legal
+81,Legal,General Counsel / Head Legal,Emerging_Tech_General_Counsel___Head_Legal,Mid Sized,80 - 150,Emerging Tech in General Counsel / Head Legal
+82,Legal,General Counsel / Head Legal,Emerging_Tech_General_Counsel___Head_Legal,Large Sized,150+,Emerging Tech in General Counsel / Head Legal
+83,Legal,Legal Secondment - for Corporate Clients (Paid Retainer Fee),1-2_years_of_law-firm_experience_and_1-2_years_in-house_experience_Legal_Secondment_-_for_Corporate_Clients_(Paid_Retainer_Fee),2 - 5 years,10 - 20,1-2 years of law-firm experience & 1-2 years in-house experience in Legal Secondment - for Corporate Clients (Paid Retainer Fee)
+84,Legal,Legal Secondment - for Corporate Clients (Paid Retainer Fee),1-2_years_of_law-firm_experience_and_1-2_years_in-house_experience_Legal_Secondment_-_for_Corporate_Clients_(Paid_Retainer_Fee),5 - 7 years,20 - 24,1-2 years of law-firm experience & 1-2 years in-house experience in Legal Secondment - for Corporate Clients (Paid Retainer Fee)
+85,Legal,Legal Secondment - for Corporate Clients (Paid Retainer Fee),1-2_years_of_law-firm_experience_and_1-2_years_in-house_experience_Legal_Secondment_-_for_Corporate_Clients_(Paid_Retainer_Fee),7 - 9 years,24 - 28,1-2 years of law-firm experience & 1-2 years in-house experience in Legal Secondment - for Corporate Clients (Paid Retainer Fee)
+86,Legal,Legal Secondment - for Corporate Clients (Paid Retainer Fee),1-2_years_of_law-firm_experience_and_1-2_years_in-house_experience_Legal_Secondment_-_for_Corporate_Clients_(Paid_Retainer_Fee),9 - 12 years,28 - 35,1-2 years of law-firm experience & 1-2 years in-house experience in Legal Secondment - for Corporate Clients (Paid Retainer Fee)

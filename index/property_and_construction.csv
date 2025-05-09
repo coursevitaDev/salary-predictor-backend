@@ -1,0 +1,87 @@
+,Category,sub1,sub2,Role,Exp,Range,Display Role
+0,Property & Construction,Business Management,Null,Profit_and_Loss_(PandL)_Management_Business_Management_Null,5 - 10 years,35 - 65,Profit & Loss (P&L) Management
+1,Property & Construction,Business Management,Null,Profit_and_Loss_(PandL)_Management_Business_Management_Null,10 - 15 years,50 - 100,Profit & Loss (P&L) Management
+2,Property & Construction,Business Management,Null,Profit_and_Loss_(PandL)_Management_Business_Management_Null,15 - 25 years,70 - 300,Profit & Loss (P&L) Management
+3,Property & Construction,Business Management,Null,Profit_and_Loss_(PandL)_Management_Business_Management_Null,25+ years,150 - 400,Profit & Loss (P&L) Management
+4,Property & Construction,Business Management,Null,Sales_Business_Management_Null,5 - 10 years,20 - 45,Sales
+5,Property & Construction,Business Management,Null,Sales_Business_Management_Null,10 - 15 years,25 - 100,Sales
+6,Property & Construction,Business Management,Null,Sales_Business_Management_Null,15 - 25 years,50 - 300,Sales
+7,Property & Construction,Business Management,Null,Sales_Business_Management_Null,25+ years,100 - 300,Sales
+8,Property & Construction,Business Management,Null,Marketing_Business_Management_Null,3 - 5 years,15 - 25,Marketing
+9,Property & Construction,Business Management,Null,Marketing_Business_Management_Null,5 - 10 years,15 - 40,Marketing
+10,Property & Construction,Business Management,Null,Marketing_Business_Management_Null,10 - 15 years,45 - 75,Marketing
+11,Property & Construction,Business Management,Null,Marketing_Business_Management_Null,15 - 25 years,60 - 150,Marketing
+12,Property & Construction,Business Management,Null,Marketing_Business_Management_Null,25+ years,100 - 250,Marketing
+13,Property & Construction,Business Management,Null,BD___Land_Acquisition_Business_Management_Null,5 - 10 years,15 - 40,BD / Land Acquisition
+14,Property & Construction,Business Management,Null,BD___Land_Acquisition_Business_Management_Null,10 - 15 years,30 - 75,BD / Land Acquisition
+15,Property & Construction,Business Management,Null,BD___Land_Acquisition_Business_Management_Null,15 - 25 years,60 - 140,BD / Land Acquisition
+16,Property & Construction,Business Management,Null,BD___Land_Acquisition_Business_Management_Null,25+ years,100 - 250,BD / Land Acquisition
+17,Property & Construction,Business Management,Null,Leasing_Business_Management_Null,3 - 5 years,10 - 30,Leasing
+18,Property & Construction,Business Management,Null,Leasing_Business_Management_Null,5 - 10 years,20 - 45,Leasing
+19,Property & Construction,Business Management,Null,Leasing_Business_Management_Null,10 - 15 years,40 - 100,Leasing
+20,Property & Construction,Business Management,Null,Leasing_Business_Management_Null,15 - 25 years,60 - 120,Leasing
+21,Property & Construction,Business Management,Null,Leasing_Business_Management_Null,25+ years,100 - 250,Leasing
+22,Property & Construction,Business Management,P&L & Operations,Property_and_Asset_Management_Business_Management_PandL_and_Operations,3 - 5 years,10 - 30,Property & Asset Management
+23,Property & Construction,Business Management,P&L & Operations,Property_and_Asset_Management_Business_Management_PandL_and_Operations,5 - 10 years,25 - 50,Property & Asset Management
+24,Property & Construction,Business Management,P&L & Operations,Property_and_Asset_Management_Business_Management_PandL_and_Operations,10 - 15 years,45 - 100,Property & Asset Management
+25,Property & Construction,Business Management,P&L & Operations,Property_and_Asset_Management_Business_Management_PandL_and_Operations,15 - 25 years,80 - 225,Property & Asset Management
+26,Property & Construction,Business Management,P&L & Operations,Property_and_Asset_Management_Business_Management_PandL_and_Operations,25+ years,100 - 300,Property & Asset Management
+27,Property & Construction,Business Management,P&L & Operations,Strategy_Business_Management_PandL_and_Operations,3 - 5 years,15 - 35,Strategy
+28,Property & Construction,Business Management,P&L & Operations,Strategy_Business_Management_PandL_and_Operations,5 - 10 years,25 - 60,Strategy
+29,Property & Construction,Business Management,P&L & Operations,Strategy_Business_Management_PandL_and_Operations,10 - 15 years,35 - 100,Strategy
+30,Property & Construction,Business Management,P&L & Operations,Strategy_Business_Management_PandL_and_Operations,15 - 25 years,80 - 250,Strategy
+31,Property & Construction,Business Management,P&L & Operations,Strategy_Business_Management_PandL_and_Operations,25+ years,120 - 300,Strategy
+32,Property & Construction,Business Management,P&L & Operations,Executive_Assistant_Business_Management_PandL_and_Operations,3 - 5 years,15 - 25,Executive Assistant
+33,Property & Construction,Business Management,P&L & Operations,Executive_Assistant_Business_Management_PandL_and_Operations,5 - 10 years,25 - 40,Executive Assistant
+34,Property & Construction,Business Management,P&L & Operations,Executive_Assistant_Business_Management_PandL_and_Operations,10 - 15 years,40 - 50,Executive Assistant
+35,Property & Construction,Business Management,P&L & Operations,Executive_Assistant_Business_Management_PandL_and_Operations,15+ years,-,Executive Assistant
+36,Property & Construction,Business Management,P&L & Operations,Facilities_Management_Business_Management_PandL_and_Operations,3 - 5 years,15 - 25,Facilities Management
+37,Property & Construction,Business Management,P&L & Operations,Facilities_Management_Business_Management_PandL_and_Operations,5 - 10 years,20 - 30,Facilities Management
+38,Property & Construction,Business Management,P&L & Operations,Facilities_Management_Business_Management_PandL_and_Operations,10 - 15 years,35 - 50,Facilities Management
+39,Property & Construction,Business Management,P&L & Operations,Facilities_Management_Business_Management_PandL_and_Operations,15 - 25 years,40 - 150,Facilities Management
+40,Property & Construction,Business Management,P&L & Operations,Facilities_Management_Business_Management_PandL_and_Operations,25+ years,60 - 180,Facilities Management
+41,Property & Construction,Business Management,P&L & Operations,Customer_Relationship_Management_Business_Management_PandL_and_Operations,3 - 5 years,15 - 25,Customer Relationship Management
+42,Property & Construction,Business Management,P&L & Operations,Customer_Relationship_Management_Business_Management_PandL_and_Operations,5 - 10 years,15 - 25,Customer Relationship Management
+43,Property & Construction,Business Management,P&L & Operations,Customer_Relationship_Management_Business_Management_PandL_and_Operations,10 - 15 years,25 - 50,Customer Relationship Management
+44,Property & Construction,Business Management,P&L & Operations,Customer_Relationship_Management_Business_Management_PandL_and_Operations,15 - 25 years,35 - 80,Customer Relationship Management
+45,Property & Construction,Business Management,P&L & Operations,Customer_Relationship_Management_Business_Management_PandL_and_Operations,25+ years,45 - 200,Customer Relationship Management
+46,Property & Construction,Business Management,Technical,Architecture_and_Design_Business_Management_Technical,3 - 5 years,15 - 25,Architecture & Design
+47,Property & Construction,Business Management,Technical,Architecture_and_Design_Business_Management_Technical,5 - 10 years,15 - 25,Architecture & Design
+48,Property & Construction,Business Management,Technical,Architecture_and_Design_Business_Management_Technical,10 - 15 years,15 - 50,Architecture & Design
+49,Property & Construction,Business Management,Technical,Architecture_and_Design_Business_Management_Technical,15 - 25 years,40 - 120,Architecture & Design
+50,Property & Construction,Business Management,Technical,Architecture_and_Design_Business_Management_Technical,25+ years,70 - 300,Architecture & Design
+51,Property & Construction,Business Management,Technical,Project_Management_Business_Management_Technical,3 - 5 years,15 - 25,Project Management
+52,Property & Construction,Business Management,Technical,Project_Management_Business_Management_Technical,5 - 10 years,15 - 35,Project Management
+53,Property & Construction,Business Management,Technical,Project_Management_Business_Management_Technical,10 - 15 years,20 - 70,Project Management
+54,Property & Construction,Business Management,Technical,Project_Management_Business_Management_Technical,15 - 25 years,50 - 150,Project Management
+55,Property & Construction,Business Management,Technical,Project_Management_Business_Management_Technical,25+ years,70 - 450,Project Management
+56,Property & Construction,Business Management,Technical,"Mechanical,_Electrical_and_Plumbing_Business_Management_Technical",3 - 5 years,15 - 25,"Mechanical, Electrical & Plumbing"
+57,Property & Construction,Business Management,Technical,"Mechanical,_Electrical_and_Plumbing_Business_Management_Technical",5 - 10 years,15 - 30,"Mechanical, Electrical & Plumbing"
+58,Property & Construction,Business Management,Technical,"Mechanical,_Electrical_and_Plumbing_Business_Management_Technical",10 - 15 years,20 - 60,"Mechanical, Electrical & Plumbing"
+59,Property & Construction,Business Management,Technical,"Mechanical,_Electrical_and_Plumbing_Business_Management_Technical",15 - 25 years,40 - 150,"Mechanical, Electrical & Plumbing"
+60,Property & Construction,Business Management,Technical,"Mechanical,_Electrical_and_Plumbing_Business_Management_Technical",25+ years,70 - 350,"Mechanical, Electrical & Plumbing"
+61,Property & Construction,Business Management,Technical,Structural_Engineering_Business_Management_Technical,3 - 5 years,15 - 25,Structural Engineering
+62,Property & Construction,Business Management,Technical,Structural_Engineering_Business_Management_Technical,5 - 10 years,15 - 30,Structural Engineering
+63,Property & Construction,Business Management,Technical,Structural_Engineering_Business_Management_Technical,10 - 15 years,20 - 60,Structural Engineering
+64,Property & Construction,Business Management,Technical,Structural_Engineering_Business_Management_Technical,15 - 25 years,40 - 100,Structural Engineering
+65,Property & Construction,Business Management,Technical,Structural_Engineering_Business_Management_Technical,25+ years,80 - 300,Structural Engineering
+66,Property & Construction,Business Management,Technical,Health_and_Safety_Business_Management_Technical,3 - 5 years,15 - 25,Health & Safety
+67,Property & Construction,Business Management,Technical,Health_and_Safety_Business_Management_Technical,5 - 10 years,15 - 25,Health & Safety
+68,Property & Construction,Business Management,Technical,Health_and_Safety_Business_Management_Technical,10 - 15 years,Dec-60,Health & Safety
+69,Property & Construction,Business Management,Technical,Health_and_Safety_Business_Management_Technical,15 - 25 years,40 - 100,Health & Safety
+70,Property & Construction,Business Management,Technical,Health_and_Safety_Business_Management_Technical,25+ years,40 - 200,Health & Safety
+71,Property & Construction,Business Management,Technical,Quantity_Surveying_Business_Management_Technical,3 - 5 years,15 - 25,Quantity Surveying
+72,Property & Construction,Business Management,Technical,Quantity_Surveying_Business_Management_Technical,5 - 10 years,15 - 20,Quantity Surveying
+73,Property & Construction,Business Management,Technical,Quantity_Surveying_Business_Management_Technical,10 - 15 years,15 - 50,Quantity Surveying
+74,Property & Construction,Business Management,Technical,Quantity_Surveying_Business_Management_Technical,15 - 25 years,20 - 70,Quantity Surveying
+75,Property & Construction,Business Management,Technical,Quantity_Surveying_Business_Management_Technical,25+ years,60 - 250,Quantity Surveying
+76,Property & Construction,Business Management,Technical,Planning_and_Coordination_Business_Management_Technical,3 - 5 years,15 - 25,Planning & Coordination
+77,Property & Construction,Business Management,Technical,Planning_and_Coordination_Business_Management_Technical,5 - 10 years,15 - 30,Planning & Coordination
+78,Property & Construction,Business Management,Technical,Planning_and_Coordination_Business_Management_Technical,10 - 15 years,25 - 70,Planning & Coordination
+79,Property & Construction,Business Management,Technical,Planning_and_Coordination_Business_Management_Technical,15 - 25 years,30 - 100,Planning & Coordination
+80,Property & Construction,Business Management,Technical,Planning_and_Coordination_Business_Management_Technical,25+ years,50 - 200,Planning & Coordination
+81,Property & Construction,Business Management,Technical,Contracts_Management_Business_Management_Technical,3 - 5 years,15 - 25,Contracts Management
+82,Property & Construction,Business Management,Technical,Contracts_Management_Business_Management_Technical,5 - 10 years,15 - 30,Contracts Management
+83,Property & Construction,Business Management,Technical,Contracts_Management_Business_Management_Technical,10 - 15 years,25 - 70,Contracts Management
+84,Property & Construction,Business Management,Technical,Contracts_Management_Business_Management_Technical,15 - 25 years,30 - 100,Contracts Management
+85,Property & Construction,Business Management,Technical,Contracts_Management_Business_Management_Technical,25+ years,40 - 200,Contracts Management

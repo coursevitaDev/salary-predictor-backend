@@ -1,0 +1,73 @@
+,Category,sub1,sub2,Role,Exp,Range,Display Role
+0,Contracting,GCC / SSC,Mid- to Large-Sized Captive Centres,Application_Developer,1 - 3 years,06 - 12,Application Developer
+1,Contracting,GCC / SSC,Mid- to Large-Sized Captive Centres,Application_Developer,3 - 5 years,10 - 21,Application Developer
+2,Contracting,GCC / SSC,Mid- to Large-Sized Captive Centres,Application_Developer,5 - 7 years,22 - 28,Application Developer
+3,Contracting,GCC / SSC,Mid- to Large-Sized Captive Centres,Application_Developer,7+ years,29 - 35,Application Developer
+4,Contracting,GCC / SSC,Mid- to Large-Sized Captive Centres,Data_Science___Data_Engineer,1 - 3 years,07 - 15,Data Science / Data Engineer
+5,Contracting,GCC / SSC,Mid- to Large-Sized Captive Centres,Data_Science___Data_Engineer,3 - 5 years,15 - 24,Data Science / Data Engineer
+6,Contracting,GCC / SSC,Mid- to Large-Sized Captive Centres,Data_Science___Data_Engineer,5 - 7 years,25 - 36,Data Science / Data Engineer
+7,Contracting,GCC / SSC,Mid- to Large-Sized Captive Centres,Data_Science___Data_Engineer,7+ years,37 - 45,Data Science / Data Engineer
+8,Contracting,GCC / SSC,Mid- to Large-Sized Captive Centres,Front-end_Developer,1 - 3 years,05 - 12,Front-end Developer
+9,Contracting,GCC / SSC,Mid- to Large-Sized Captive Centres,Front-end_Developer,3 - 5 years,12 - 25,Front-end Developer
+10,Contracting,GCC / SSC,Mid- to Large-Sized Captive Centres,Front-end_Developer,5 - 7 years,25 - 34,Front-end Developer
+11,Contracting,GCC / SSC,Mid- to Large-Sized Captive Centres,Front-end_Developer,7+ years,35 - 47,Front-end Developer
+12,Contracting,GCC / SSC,Mid- to Large-Sized Captive Centres,Back-end_Developer,1 - 3 years,05 - 11,Back-end Developer
+13,Contracting,GCC / SSC,Mid- to Large-Sized Captive Centres,Back-end_Developer,3 - 5 years,11 - 24,Back-end Developer
+14,Contracting,GCC / SSC,Mid- to Large-Sized Captive Centres,Back-end_Developer,5 - 7 years,24 - 32,Back-end Developer
+15,Contracting,GCC / SSC,Mid- to Large-Sized Captive Centres,Back-end_Developer,7+ years,32 - 45,Back-end Developer
+16,Contracting,GCC / SSC,Mid- to Large-Sized Captive Centres,Solution_Architect,1 - 3 years,07 - 15,Solution Architect
+17,Contracting,GCC / SSC,Mid- to Large-Sized Captive Centres,Solution_Architect,3 - 5 years,15 - 26,Solution Architect
+18,Contracting,GCC / SSC,Mid- to Large-Sized Captive Centres,Solution_Architect,5 - 7 years,26 - 37,Solution Architect
+19,Contracting,GCC / SSC,Mid- to Large-Sized Captive Centres,Solution_Architect,7+ years,37 - 52,Solution Architect
+20,Contracting,GCC / SSC,Mid- to Large-Sized Captive Centres,Cloud_Engineer___Cloud_Developer,1 - 3 years,06 - 10,Cloud Engineer / Cloud Developer
+21,Contracting,GCC / SSC,Mid- to Large-Sized Captive Centres,Cloud_Engineer___Cloud_Developer,3 - 5 years,10 - 22,Cloud Engineer / Cloud Developer
+22,Contracting,GCC / SSC,Mid- to Large-Sized Captive Centres,Cloud_Engineer___Cloud_Developer,5 - 7 years,23 - 34,Cloud Engineer / Cloud Developer
+23,Contracting,GCC / SSC,Mid- to Large-Sized Captive Centres,Cloud_Engineer___Cloud_Developer,7+ years,35 - 48,Cloud Engineer / Cloud Developer
+24,Contracting,GCC / SSC,Mid- to Large-Sized Captive Centres,AI___ML,1 - 3 years,08 - 15,AI / ML
+25,Contracting,GCC / SSC,Mid- to Large-Sized Captive Centres,AI___ML,3 - 5 years,15 - 24,AI / ML
+26,Contracting,GCC / SSC,Mid- to Large-Sized Captive Centres,AI___ML,5 - 7 years,24 - 34,AI / ML
+27,Contracting,GCC / SSC,Mid- to Large-Sized Captive Centres,AI___ML,7+ years,35 - 48,AI / ML
+28,Contracting,GCC / SSC,Mid- to Large-Sized Captive Centres,Enterprise_Architect,1 - 3 years,06 - 10,Enterprise Architect
+29,Contracting,GCC / SSC,Mid- to Large-Sized Captive Centres,Enterprise_Architect,3 - 5 years,11 - 24,Enterprise Architect
+30,Contracting,GCC / SSC,Mid- to Large-Sized Captive Centres,Enterprise_Architect,5 - 7 years,25 - 36,Enterprise Architect
+31,Contracting,GCC / SSC,Mid- to Large-Sized Captive Centres,Enterprise_Architect,7+ years,38 - 47,Enterprise Architect
+32,Contracting,GCC / SSC,Mid- to Large-Sized Captive Centres,Cybersecurity_Engineer,1 - 3 years,05 - 10,Cybersecurity Engineer
+33,Contracting,GCC / SSC,Mid- to Large-Sized Captive Centres,Cybersecurity_Engineer,3 - 5 years,11 - 24,Cybersecurity Engineer
+34,Contracting,GCC / SSC,Mid- to Large-Sized Captive Centres,Cybersecurity_Engineer,5 - 7 years,25 - 35,Cybersecurity Engineer
+35,Contracting,GCC / SSC,Mid- to Large-Sized Captive Centres,Cybersecurity_Engineer,7+ years,36 - 47,Cybersecurity Engineer
+36,Contracting,Corporate IT Centres,"MNC, Domestic & Product Companies, Small-Sized Captive Centres",Application_Developer,1 - 3 years,05 - 11,Application Developer
+37,Contracting,Corporate IT Centres,"MNC, Domestic & Product Companies, Small-Sized Captive Centres",Application_Developer,3 - 5 years,10 - 20,Application Developer
+38,Contracting,Corporate IT Centres,"MNC, Domestic & Product Companies, Small-Sized Captive Centres",Application_Developer,5 - 7 years,20 - 25,Application Developer
+39,Contracting,Corporate IT Centres,"MNC, Domestic & Product Companies, Small-Sized Captive Centres",Application_Developer,7+ years,26 - 35,Application Developer
+40,Contracting,Corporate IT Centres,"MNC, Domestic & Product Companies, Small-Sized Captive Centres",Data_Science___Data_Engineer,1 - 3 years,07 - 15,Data Science / Data Engineer
+41,Contracting,Corporate IT Centres,"MNC, Domestic & Product Companies, Small-Sized Captive Centres",Data_Science___Data_Engineer,3 - 5 years,15 - 24,Data Science / Data Engineer
+42,Contracting,Corporate IT Centres,"MNC, Domestic & Product Companies, Small-Sized Captive Centres",Data_Science___Data_Engineer,5 - 7 years,25 - 36,Data Science / Data Engineer
+43,Contracting,Corporate IT Centres,"MNC, Domestic & Product Companies, Small-Sized Captive Centres",Data_Science___Data_Engineer,7+ years,37 - 45,Data Science / Data Engineer
+44,Contracting,Corporate IT Centres,"MNC, Domestic & Product Companies, Small-Sized Captive Centres",Front-end_Developer,1 - 3 years,05 - 12,Front-end Developer
+45,Contracting,Corporate IT Centres,"MNC, Domestic & Product Companies, Small-Sized Captive Centres",Front-end_Developer,3 - 5 years,12 - 25,Front-end Developer
+46,Contracting,Corporate IT Centres,"MNC, Domestic & Product Companies, Small-Sized Captive Centres",Front-end_Developer,5 - 7 years,25 - 34,Front-end Developer
+47,Contracting,Corporate IT Centres,"MNC, Domestic & Product Companies, Small-Sized Captive Centres",Front-end_Developer,7+ years,35 - 47,Front-end Developer
+48,Contracting,Corporate IT Centres,"MNC, Domestic & Product Companies, Small-Sized Captive Centres",Back-end_Developer,1 - 3 years,05 - 11,Back-end Developer
+49,Contracting,Corporate IT Centres,"MNC, Domestic & Product Companies, Small-Sized Captive Centres",Back-end_Developer,3 - 5 years,11 - 24,Back-end Developer
+50,Contracting,Corporate IT Centres,"MNC, Domestic & Product Companies, Small-Sized Captive Centres",Back-end_Developer,5 - 7 years,24 - 32,Back-end Developer
+51,Contracting,Corporate IT Centres,"MNC, Domestic & Product Companies, Small-Sized Captive Centres",Back-end_Developer,7+ years,32 - 45,Back-end Developer
+52,Contracting,Corporate IT Centres,"MNC, Domestic & Product Companies, Small-Sized Captive Centres",Solution_Architect,1 - 3 years,07 - 15,Solution Architect
+53,Contracting,Corporate IT Centres,"MNC, Domestic & Product Companies, Small-Sized Captive Centres",Solution_Architect,3 - 5 years,15 - 26,Solution Architect
+54,Contracting,Corporate IT Centres,"MNC, Domestic & Product Companies, Small-Sized Captive Centres",Solution_Architect,5 - 7 years,26 - 37,Solution Architect
+55,Contracting,Corporate IT Centres,"MNC, Domestic & Product Companies, Small-Sized Captive Centres",Solution_Architect,7+ years,37 - 52,Solution Architect
+56,Contracting,Corporate IT Centres,"MNC, Domestic & Product Companies, Small-Sized Captive Centres",Cloud_Engineer___Cloud_Developer,1 - 3 years,06 - 10,Cloud Engineer / Cloud Developer
+57,Contracting,Corporate IT Centres,"MNC, Domestic & Product Companies, Small-Sized Captive Centres",Cloud_Engineer___Cloud_Developer,3 - 5 years,10 - 22,Cloud Engineer / Cloud Developer
+58,Contracting,Corporate IT Centres,"MNC, Domestic & Product Companies, Small-Sized Captive Centres",Cloud_Engineer___Cloud_Developer,5 - 7 years,23 - 34,Cloud Engineer / Cloud Developer
+59,Contracting,Corporate IT Centres,"MNC, Domestic & Product Companies, Small-Sized Captive Centres",Cloud_Engineer___Cloud_Developer,7+ years,35 - 48,Cloud Engineer / Cloud Developer
+60,Contracting,Corporate IT Centres,"MNC, Domestic & Product Companies, Small-Sized Captive Centres",AI___ML,1 - 3 years,08 - 15,AI / ML
+61,Contracting,Corporate IT Centres,"MNC, Domestic & Product Companies, Small-Sized Captive Centres",AI___ML,3 - 5 years,15 - 24,AI / ML
+62,Contracting,Corporate IT Centres,"MNC, Domestic & Product Companies, Small-Sized Captive Centres",AI___ML,5 - 7 years,24 - 34,AI / ML
+63,Contracting,Corporate IT Centres,"MNC, Domestic & Product Companies, Small-Sized Captive Centres",AI___ML,7+ years,35 - 48,AI / ML
+64,Contracting,Corporate IT Centres,"MNC, Domestic & Product Companies, Small-Sized Captive Centres",Enterprise_Architect,1 - 3 years,06 - 10,Enterprise Architect
+65,Contracting,Corporate IT Centres,"MNC, Domestic & Product Companies, Small-Sized Captive Centres",Enterprise_Architect,3 - 5 years,11 - 24,Enterprise Architect
+66,Contracting,Corporate IT Centres,"MNC, Domestic & Product Companies, Small-Sized Captive Centres",Enterprise_Architect,5 - 7 years,25 - 36,Enterprise Architect
+67,Contracting,Corporate IT Centres,"MNC, Domestic & Product Companies, Small-Sized Captive Centres",Enterprise_Architect,7+ years,38 - 47,Enterprise Architect
+68,Contracting,Corporate IT Centres,"MNC, Domestic & Product Companies, Small-Sized Captive Centres",Cybersecurity_Engineer,1 - 3 years,05 - 10,Cybersecurity Engineer
+69,Contracting,Corporate IT Centres,"MNC, Domestic & Product Companies, Small-Sized Captive Centres",Cybersecurity_Engineer,3 - 5 years,11 - 24,Cybersecurity Engineer
+70,Contracting,Corporate IT Centres,"MNC, Domestic & Product Companies, Small-Sized Captive Centres",Cybersecurity_Engineer,5 - 7 years,25 - 35,Cybersecurity Engineer
+71,Contracting,Corporate IT Centres,"MNC, Domestic & Product Companies, Small-Sized Captive Centres",Cybersecurity_Engineer,7+ years,36 - 47,Cybersecurity Engineer
