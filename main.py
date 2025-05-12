@@ -533,6 +533,13 @@ def search():
         response = jsonify(final)
         response.headers.add("Access-Control-Allow-Origin", "https://salary-predictor1.netlify.app")
     return response
+
+@app.after_request
+def add_cors_headers(response):
+    response.headers.add("Access-Control-Allow-Origin", "https://salary-predictor1.netlify.app")
+    response.headers.add("Access-Control-Allow-Credentials", "true")
+    return response
+
 if __name__ == '__main__':
     import os
     port = int(os.environ.get("PORT", 5000))  # Render sets PORT env var
