@@ -14,7 +14,11 @@ from datetime import datetime
 from sklearn.preprocessing import MultiLabelBinarizer
 from map_clean_skills import map_and_clean_skills
 app = Flask(__name__)
-CORS(app, origins=["https://salary-predictor1.netlify.app"])
+CORS(app,
+     origins=["https://salary-predictor1.netlify.app"],
+     supports_credentials=True,
+     methods=["GET", "POST", "OPTIONS"],
+     allow_headers=["Content-Type"])
 
 def extract_text_from_pdf(pdf_path):
     doc = fitz.open(pdf_path)
