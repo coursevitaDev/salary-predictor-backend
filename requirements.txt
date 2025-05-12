@@ -108,3 +108,4 @@ xxhash==3.5.0
 yarl==1.19.0
 flask
 faiss-cpu
+flask-cors
