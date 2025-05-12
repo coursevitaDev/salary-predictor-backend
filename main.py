@@ -14,8 +14,7 @@ from datetime import datetime
 from sklearn.preprocessing import MultiLabelBinarizer
 from map_clean_skills import map_and_clean_skills
 app = Flask(__name__)
-CORS(app, supports_credentials=True, origins=["https://salary-predictor1.netlify.app"], resources={r"/*": {"origins": "https://salary-predictor1.netlify.app"}})
-
+CORS(app)
 
 def extract_text_from_pdf(pdf_path):
     doc = fitz.open(pdf_path)
@@ -160,15 +159,8 @@ def extract_experiences_and_certificates_with_gemini(data,job_role):
 
 
 
-@app.route('/upload', methods=['POST', 'OPTIONS'])
+@app.route('/upload', methods=['POST'])
 def upload():
-    if request.method == "OPTIONS":
-        response = jsonify({"message": "CORS preflight passed"})
-        response.headers.add("Access-Control-Allow-Origin", "https://salary-predictor1.netlify.app")
-        response.headers.add("Access-Control-Allow-Methods", "POST, OPTIONS")
-        response.headers.add("Access-Control-Allow-Headers", "Content-Type")
-        return response, 200
-
     print("Request received!")
 
     if 'file' not in request.files:
@@ -186,10 +178,7 @@ def upload():
     
     extracted_data = extract_skills_and_certificates_with_gemini(filepath)
 
-    response = jsonify(extracted_data)
-    response.headers.add("Access-Control-Allow-Origin", "https://salary-predictor1.netlify.app")
-    return response
-
+    return extracted_data
 
 
 # Load FAISS Index
@@ -438,12 +427,8 @@ def refresh():
             "matching_skills": results[x]["matching_skills"],
             "category_list": category_list,
         })
-        response = jsonify(final)
-        response.headers.add("Access-Control-Allow-Origin", "https://salary-predictor1.netlify.app")
 
-    return response
-
-
+    return jsonify(final)
 
 @app.route('/search', methods=['POST'])
 def search():
@@ -530,15 +515,9 @@ def search():
             "matching_skills": results[x]["matching_skills"],
             "category_list": category_list,
         })
-        response = jsonify(final)
-        response.headers.add("Access-Control-Allow-Origin", "https://salary-predictor1.netlify.app")
-    return response
 
-@app.after_request
-def add_cors_headers(response):
-    response.headers.add("Access-Control-Allow-Origin", "https://salary-predictor1.netlify.app")
-    response.headers.add("Access-Control-Allow-Credentials", "true")
-    return response
+    return jsonify(final)
+
 
 if __name__ == '__main__':
     import os
