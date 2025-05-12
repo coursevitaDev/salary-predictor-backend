@@ -14,7 +14,7 @@ from datetime import datetime
 from sklearn.preprocessing import MultiLabelBinarizer
 from map_clean_skills import map_and_clean_skills
 app = Flask(__name__)
-CORS(app)
+CORS(app, origins=["https://salary-predictor1.netlify.app"])
 
 def extract_text_from_pdf(pdf_path):
     doc = fitz.open(pdf_path)
@@ -389,37 +389,37 @@ def results_generator(data,category,temp, selectedCategory, selectedExperience):
 
 @app.route('/refresh', methods=['POST', 'OPTIONS'])
 def refresh():
-    if request.method == "OPTIONS":  # Handle CORS Preflight
-        response = jsonify({"message": "CORS preflight passed"})
-        response.headers.add("Access-Control-Allow-Origin", "https://salary-predictor1.netlify.app/")
-        response.headers.add("Access-Control-Allow-Methods", "POST, OPTIONS")
-        response.headers.add("Access-Control-Allow-Headers", "Content-Type")
-        return response, 200  # ✅ Return HTTP 200 (OK)
-    data=request.json
+    data = request.json
     if not data or "Skills" not in data:
         return jsonify({"error": "skills not available in refresh request"})
+    
     user_skills = data["Skills"]
     selectedCategory = data['selectedCategory']
+    
     if not isinstance(user_skills, list):
         return jsonify({"error": "Skills should be a list."}), 400
+
+    category_list = data['category_list']
     results = []
-    # print(data)
-    print(data.keys())
-    category_list=data['category_list']
-    
+
     with concurrent.futures.ThreadPoolExecutor() as executor:
-        results = list(executor.map(refresh_results_generator,[data] * len(category_list),category_list, [selectedCategory]*len(category_list)))
+        results = list(executor.map(
+            refresh_results_generator,
+            [data] * len(category_list),
+            category_list,
+            [selectedCategory] * len(category_list)
+        ))
 
     if not results:
         return jsonify({"message": "No relevant categories found"})
 
     final = []
-    for x in range(len(results)): 
+    for x in range(len(results)):
         final.append({
             "category": results[x]["role_title"],
             "matching_skills": results[x]["matching_skills"],
             "salary_estimate": results[x]["salary_estimate"],
-            "Skill Score":  results[x]["user_skill_score"],
+            "Skill Score": results[x]["user_skill_score"],
             "Base pay": results[x]["base_pay"],
             "Skill Match": results[x]["skill_match"],
             "message": "SUCCESS",
@@ -429,6 +429,7 @@ def refresh():
         })
 
     return jsonify(final)
+
 
 @app.route('/search', methods=['POST'])
 def search():
