@@ -391,7 +391,7 @@ def results_generator(data,category,temp, selectedCategory, selectedExperience):
 def refresh():
     if request.method == "OPTIONS":  # Handle CORS Preflight
         response = jsonify({"message": "CORS preflight passed"})
-        response.headers.add("Access-Control-Allow-Origin", "https://salary-predictor1.netlify.app")
+        response.headers.add("Access-Control-Allow-Origin", "https://loquacious-shortbread-244284.netlify.app/")
         response.headers.add("Access-Control-Allow-Methods", "POST, OPTIONS")
         response.headers.add("Access-Control-Allow-Headers", "Content-Type")
         return response, 200  # ✅ Return HTTP 200 (OK)
